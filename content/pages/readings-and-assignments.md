@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Assignments
 uid: 286e8e83-6688-3cdf-70a8-06d67d7e8898
 ---
