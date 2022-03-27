@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Coiled Coils
 uid: f9278a69-50d6-d40c-d41e-166c649f1f3e

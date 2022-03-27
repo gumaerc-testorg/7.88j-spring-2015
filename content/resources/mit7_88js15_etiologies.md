@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 286e8e83-6688-3cdf-70a8-06d67d7e8898
 resourcetype: Document
 title: 7.88J Etiologies of Major Human Diseases
 uid: 68eeee29-54ba-015c-13e8-47025b736c09

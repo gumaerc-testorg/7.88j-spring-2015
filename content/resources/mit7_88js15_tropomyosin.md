@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Tropomyosin and S-peptide
 uid: 2fba826c-728d-1c5a-7a6f-5cb784c169af

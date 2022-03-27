@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Collagen Structure and Folding In Vivo
 uid: 06a0a18e-02fb-9d62-e684-9f671939dfd9

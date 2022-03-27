@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Cytochrome C Refolding Pathway
 uid: 5b77124d-8779-ee2a-787c-8100ae53acb9

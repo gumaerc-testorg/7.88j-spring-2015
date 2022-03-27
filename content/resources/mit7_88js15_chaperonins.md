@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Chaperonins
 uid: 43cbbe19-53b1-e85b-be48-235a12593ad0

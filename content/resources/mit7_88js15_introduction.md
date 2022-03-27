@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Introduction to the Protein Folding Problem
 uid: 09b0b83d-62eb-dc0c-8da0-d8a3817a8b09

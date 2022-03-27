@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3dcef3c4-558f-b1a1-6454-3df57ecd8a72
 resourcetype: Document
 title: Retrieving and Viewing Proteins from the Protein Data Base
 uid: 3a20ec36-c1bb-dddc-9b4a-8651991f692c
