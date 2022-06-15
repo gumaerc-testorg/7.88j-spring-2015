@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, assignments, grading, and participation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-[_7.51 Graduate Biochemistry_](/courses/7-51-graduate-biochemistry-fall-2001/), or permission of the instructor.
+[_7.51 Graduate Biochemistry_](/courses/7-51-graduate-biochemistry-fall-2001), or permission of the instructor.
 
 Course Description and Objectives
 ---------------------------------
