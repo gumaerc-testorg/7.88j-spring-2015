@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides oral presentation guidelines, final paper guidelines,
+  and a list of possible presentation topics with a sampling of references.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-title: Projects
+title: Projects (Old)
 uid: 881c42b4-2efe-82d7-9b00-8601c7448cfe
 ---
-
 Oral Presentation Guidelines
 ----------------------------
 
