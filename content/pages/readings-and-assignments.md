@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the reading assignments, reading questions, assignment
+  due dates, and supplemental reading for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Assignments
 uid: 286e8e83-6688-3cdf-70a8-06d67d7e8898
 ---
@@ -11,7 +15,7 @@ Students should complete the assigned readings before class and be prepared for 
 Supplemental Reading: Overview of the Etiologies of Major Human Diseases
 ------------------------------------------------------------------------
 
-[The Etiologies of Major Human Diseases (PDF)]({{< baseurl >}}/resources/mit7_88js15_etiologies) - A slide deck with descriptions and histories of different human diseases and their prominence around the world.
+{{% resource_link 68eeee29-54ba-015c-13e8-47025b736c09 "The Etiologies of Major Human Diseases (PDF)" %}} - A slide deck with descriptions and histories of different human diseases and their prominence around the world.
 
 {{< tableopen >}}
 {{< theadopen >}}

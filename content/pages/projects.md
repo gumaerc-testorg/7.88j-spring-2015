@@ -1,9 +1,14 @@
 ---
 content_type: page
-title: Projects
+description: This section provides oral presentation guidelines, final paper guidelines,
+  and a list of possible presentation topics with a sampling of references.
+draft: false
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
+title: Projects (Old)
 uid: 881c42b4-2efe-82d7-9b00-8601c7448cfe
 ---
-
 Oral Presentation Guidelines
 ----------------------------
 
@@ -28,7 +33,7 @@ Final Paper Guidelines
 
 The final papers are due the last week of classes. The format of the final papers should be a mini review of the selected topic. At the point you have completed the paper, you should be an expert on the subject, with the additional good feeling of having made your understanding available to your classmates and instructors during your oral presentation. The listed references are intended only to be starting points. You are responsible for finding the latest relevant results, using the tools built in to modern journal online resources. Just as with a scientific publication, the paper should be a single coherent integrated text.
 
-The text should begin with an _Introduction_ that gives the background and general context of the work, including the societal and biomedical importance. This is to be followed by a _Critical Results and Discussion_ section that reviews the findings that you consider most relevant and important. Try to follow the format of first posing the question; then describing the experiment designed to answer the question; finally analyzing the resulting data. Reproduce a few figures to illustrate aspects of the subject. The paper should consist of a title page with an Abstract (<250 words) of the most important results and conclusions. The text proper should be 12–16 double spaced pages, with 16 pages the absolute limit. References and figures are additional. The references should include the full titles of the papers. The target audience is the other students in the class and your instructors.
+The text should begin with an _Introduction_ that gives the background and general context of the work, including the societal and biomedical importance. This is to be followed by a _Critical Results and Discussion_ section that reviews the findings that you consider most relevant and important. Try to follow the format of first posing the question; then describing the experiment designed to answer the question; finally analyzing the resulting data. Reproduce a few figures to illustrate aspects of the subject. The paper should consist of a title page with an Abstract (\<250 words) of the most important results and conclusions. The text proper should be 12–16 double spaced pages, with 16 pages the absolute limit. References and figures are additional. The references should include the full titles of the papers. The target audience is the other students in the class and your instructors.
 
 One full week before the paper is due you will exchange drafts with the other members of your team.You will provide editorial suggestions—not just copy editing but substantive feedback on things that are unclear, things that are missing, things that are given too much space for their import, etc. Make a photocopy of your comments on your colleague's paper and hand them in with the final paper. They are an important part of your class participation.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a list of web resources intended to be helpful
+  for students of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: ce7cc554-61a3-6ac9-32a3-ebf01dc2bef7
 ---
@@ -12,7 +16,7 @@ Here are some useful links for your searching pleasure:
 
 [PDB Search Tutorial](http://www.rcsb.org/pages/search_features) - Protein Data Bank help section with resources on searching, browsing, reports, and general help topics.
 
-Berman, H. M., D. S. Goodsell, and P. E. Bourne. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Protein Structures: From Famine to Feast." (PDF)](http://www.sdsc.edu/pb/papers/amer_sci.pdf) _American Scientist_ 90 (2002): 350–9.  
+Berman, H. M., D. S. Goodsell, and P. E. Bourne. ["Protein Structures: From Famine to Feast." (PDF)](http://www.sdsc.edu/pb/papers/amer_sci.pdf) _American Scientist_ 90 (2002): 350–9.  
 Publication on PDB Growth
 
 [Swiss PDB Viewer](http://spdbv.vital-it.ch/) (Deepview) - an application that allows users to analyze several proteins at the same time.
@@ -45,6 +49,6 @@ Other Free Visualization Programs (free for academic use):
 
 [The Basics of Making Cheese](http://www.hobbyfarms.com/cheese-making-basics-2/) - Overview of the basic components of cheese and the process of making cheese.
 
-[7.340 Nano-life: An Introduction to Virus Structure and Assembly](/courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/) - an undergraduate course that covers the basic principles of virus structure and symmetry, capsid assembly, strategies for enclosing nucleic acid, proteins involved in entry and exit, and the life cycles of well understood pathogens such as HIV, influenza, polio, and Herpes.
+[7.340 Nano-life: An Introduction to Virus Structure and Assembly](/courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005) - an undergraduate course that covers the basic principles of virus structure and symmetry, capsid assembly, strategies for enclosing nucleic acid, proteins involved in entry and exit, and the life cycles of well understood pathogens such as HIV, influenza, polio, and Herpes.
 
-[7.343 Protein Folding, Misfolding and Human Disease](/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/) - an undergraduate course with a main focus on the protein folding field with several topics related to protein structure and design and protein aggregation diseases.
+[7.343 Protein Folding, Misfolding and Human Disease](/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004) - an undergraduate course with a main focus on the protein folding field with several topics related to protein structure and design and protein aggregation diseases.

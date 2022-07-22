@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of topics covered in each course session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: bae2e0e7-c29e-632e-9c23-ea34748c664d
 ---
