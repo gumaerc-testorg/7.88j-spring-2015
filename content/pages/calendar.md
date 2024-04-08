@@ -123,7 +123,7 @@ Assignment 4 due
 
 Amyloid Fibers and Neurodegenerative Disease
 
-_In-Class Guest Lecturer: Prof. Peter Lansbury, [Harvard Medical School](http://hms.harvard.edu/), "Synuclein as a Therapeutic Target for Parkinson's Disease: Twenty Years and Counting."_
+_In-Class Guest Lecturer: Prof. Peter Lansbury, {{% resource_link "2c9e3ad5-154d-43ea-a40a-f2f14938f8a4" "Harvard Medical School" %}}, "Synuclein as a Therapeutic Target for Parkinson's Disease: Twenty Years and Counting."_
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Assignment 6 due
 {{< tdopen >}}
 Protein Deposition Diseases: Light Chain Amyloidosis, Alzheimers, Parkinson's, Huntington's, ALS and Others  
 
-_In-Class Guest Lecturer: Dr. Kelly Knee, [Pfizer](http://www.pfizer.com/), Cambridge, "Sickle Cell Hemoglobin."_
+_In-Class Guest Lecturer: Dr. Kelly Knee, {{% resource_link "640d8ca5-8c1e-45ca-a31e-dee109f17750" "Pfizer" %}}, Cambridge, "Sickle Cell Hemoglobin."_
 
 
 {{< tdclose >}}
