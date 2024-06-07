@@ -10,7 +10,7 @@ uid: 286e8e83-6688-3cdf-70a8-06d67d7e8898
 
 Students should complete the assigned readings before class and be prepared for meaningful discussion. For the first four weeks students will be guided by specific questions. Students will be asked to prepare the presentation and discussion of the original research articles they have read. Assigned readings are from the course textbook:
 
-\[BT\] = Branden, Carl, and John Tooze. _Introduction to Protein Structure_. 2nd ed. Garland Science, 1999. ISBN: 9780815323051. \[Preview with {{% resource_link "5fd5b2d9-c8e1-411f-aa0e-d15a49198bab" "Google Books" %}}\]
+\[BT\] = Branden, Carl, and John Tooze. _Introduction to Protein Structure_. 2nd ed. Garland Science, 1999. ISBN: 9780815323051. \[Preview with [Google Books](http://books.google.com/books?id=eUYWBAAAQBAJ&pg=PAfrontcover)\]
 
 Supplemental Reading: Overview of the Etiologies of Major Human Diseases
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ Reading in Branden and Tooze:
 
 Papers to Read:
 
-Pauling, Linus, Robert B. Corey, et al. "{{% resource_link "ca24e24d-1934-4951-830c-348efe5b03fc" "The Structure of Proteins: Two Hydrogen Bonded Helical Configurations of the Polypeptide Chain" %}}." _Proceedings of the National Academy Science of the U.S.A._ 37, no. 4 (1951): 205–11.
+Pauling, Linus, Robert B. Corey, et al. "[The Structure of Proteins: Two Hydrogen Bonded Helical Configurations of the Polypeptide Chain](http://dx.doi.org/10.1073/pnas.37.4.205)." _Proceedings of the National Academy Science of the U.S.A._ 37, no. 4 (1951): 205–11.
 
-Sela, M., F. H. White, et al. "{{% resource_link "fb3f746d-4f41-49cf-9061-5540a78e7542" "Reductive Cleavage of Disulfide Bridges in Ribonuclease" %}}." _Science_ 125, no. 3250 (1957): 691–92.
+Sela, M., F. H. White, et al. "[Reductive Cleavage of Disulfide Bridges in Ribonuclease](http://dx.doi.org/10.1126/science.125.3250.691)." _Science_ 125, no. 3250 (1957): 691–92.
 
-Anfinsen, C. B., E. Haber, et al. "{{% resource_link "9ca175aa-97b5-44cd-9c21-b633cc6eec7c" "The Kinetics of Formation of Native Ribonuclease During Oxidation of the Reduced Polypeptide Chain" %}}." _Proceedings of the National Academy Science of the U.S.A._ 47, no. 9 (1961): 1309–14.
+Anfinsen, C. B., E. Haber, et al. "[The Kinetics of Formation of Native Ribonuclease During Oxidation of the Reduced Polypeptide Chain](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC223141/)." _Proceedings of the National Academy Science of the U.S.A._ 47, no. 9 (1961): 1309–14.
 
 Perutz, Max F. _I Wish I'd Made you Angry Earlier: Essays on Science, Scientists and Humanity_. Cold Springs Harbor Lab Press, 1998, pp. 173–5. ISBN: 9780879695248.
 
@@ -82,7 +82,7 @@ As the protein structures considered get more complex, the information content o
 
 Paper to Read:
 
-O'Shea, Erin, Rheba Rutkowski, et al. "{{% resource_link "fdc41338-6a7c-467b-a87a-de490b273c1e" "Evidence that the Leucine Zipper is a Coiled Coil" %}}." _Science_ 27, no. 4890 (1989): 538–42.
+O'Shea, Erin, Rheba Rutkowski, et al. "[Evidence that the Leucine Zipper is a Coiled Coil](http://dx.doi.org/10.1126/science.2911757)." _Science_ 27, no. 4890 (1989): 538–42.
 
 This is not the paper reporting the X-ray structure of the GCN4 coiled coil, but its precursor. The methodology has subsequently been used for ongoing investigations of the sequence determinants of the coiled coil fold.
 
@@ -112,11 +112,11 @@ Reading in Branden and Tooze:
 
 In considering the immunoglobulin fold on pages 303–05 look back to chapter 5 and compare with the γ-crystallin and jellyroll folds. The MHC structures on pages 315–20 have been considered by some as a model for how some chaperonins might recognize extended sequences.
 
-Richardson, Jane S., and David C. Richardson. "{{% resource_link "7f5e2519-b948-4aa9-9002-e17b1b17bbf3" "Amino Acid Preferences for Specific Locations at the Ends of α Helices" %}}." _Science_ 240, no. 4859 (1988): 1648–52.
+Richardson, Jane S., and David C. Richardson. "[Amino Acid Preferences for Specific Locations at the Ends of α Helices](http://dx.doi.org/10.1126/science.3381086)." _Science_ 240, no. 4859 (1988): 1648–52.
 
 S., Marqusee, Baldwin R. L. "α-Helix Formation by Short Peptides in Water." In _Protein Folding: Deciphering the Second Half of the Genetic Code_. Edited by L. Gierasch and  J. King. Amer Assn for the Advancement, 1990, pp. 85–94. ISBN: 9780871683533.
 
-P. B., Harbury, T. Zhang, et al. "{{% resource_link "b854e9e9-790a-4a57-9132-ecafc18b4718" "A Switch Between Two-, Three-, and Four-stranded Coiled Coils in GCN4 Leucine Zipper Mutants" %}}." _Science_ 262, no. 5138 (1993): 1401–7.
+P. B., Harbury, T. Zhang, et al. "[A Switch Between Two-, Three-, and Four-stranded Coiled Coils in GCN4 Leucine Zipper Mutants](http://www.ncbi.nlm.nih.gov/pubmed/8248779)." _Science_ 262, no. 5138 (1993): 1401–7.
 
 
 {{< tdclose >}}
@@ -138,9 +138,9 @@ Assignment 3: due in Ses 4
 {{< tdopen >}}
 
 
-Mitraki, A., J. King. "{{% resource_link "e620088e-e0f1-449d-a34e-f6a10fd86fc2" "Protein Folding Intermediates and Inclusion Body Formation" %}}." _Nature Biotechnology_ 7 (1989): 690–97. (Bio/technology is now Nature Biotechnology).
+Mitraki, A., J. King. "[Protein Folding Intermediates and Inclusion Body Formation](http://www.nature.com/nbt/journal/v7/n7/abs/nbt0789-690.html)." _Nature Biotechnology_ 7 (1989): 690–97. (Bio/technology is now Nature Biotechnology).
 
-Brems, D. N., S. M. Plaisted, et al. "{{% resource_link "b4faeb9c-2867-42c0-9f77-bc0295369544" "Stabilization of an Associated Folding Intermediate of Bovine Growth Hormone by Site-directed Mutagenesis" %}}." _Proceedings of the National Academy Science of the U.S.A._ 85, no. 10 (1988): 3367–71.
+Brems, D. N., S. M. Plaisted, et al. "[Stabilization of an Associated Folding Intermediate of Bovine Growth Hormone by Site-directed Mutagenesis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC280210/)." _Proceedings of the National Academy Science of the U.S.A._ 85, no. 10 (1988): 3367–71.
 
 Bovine growth hormone to be used in the cattle industry (therefore not requiring FDA approval) was one of the first cloned recombinant proteins produced on an industrial scale. This somewhat dense paper is the outcome of solving the expression and aggregation problems encountered along the way. Similar problems were encountered in the expression of many recombinant human proteins in bacteria.
 
@@ -160,9 +160,9 @@ Assignment 4: due in Ses 5
 {{< tdopen >}}
 
 
-Jarrett J. T., E. P. Berger, et al. "{{% resource_link "981c8345-b0ae-42b0-8e42-c5ee11cc71cd" "The Carboxy Terminus of the β Amyloid Protein is Critical for the Seeding of Amyloid Formation: Implications for the Pathogenesis of Alzheimer's Disease" %}}." _Biochemistry_ 32, no. 18 (1993): 4693–7.
+Jarrett J. T., E. P. Berger, et al. "[The Carboxy Terminus of the β Amyloid Protein is Critical for the Seeding of Amyloid Formation: Implications for the Pathogenesis of Alzheimer's Disease](http://www.ncbi.nlm.nih.gov/pubmed/8490014)." _Biochemistry_ 32, no. 18 (1993): 4693–7.
 
-Fowler, D. M., A. V. Koulov, et al. "{{% resource_link "7fb2b62d-d495-4313-a6a3-ae0fc2d454fd" "Functional Amyloid – from Bacteria to Humans" %}}." _TiBS_ 32, no. 5 (2007): 217–24.
+Fowler, D. M., A. V. Koulov, et al. "[Functional Amyloid – from Bacteria to Humans](http://dx.doi.org/10.1016/j.tibs.2007.03.003)." _TiBS_ 32, no. 5 (2007): 217–24.
 
 
 {{< tdclose >}}
@@ -182,11 +182,11 @@ Reading in Branden and Tooze:
 
 \[BT\] Chapter 14.
 
-Kuivaniemi, H., G. Tromp, et al. "{{% resource_link "e0b972c9-9e91-434b-aa3e-3acce8c9d385" "Mutations in Collagen Genes: Causes of Rare and Some Common Diseases in Humans" %}}." _The FASEB Journal_ 5, no. 7 (1991): 2052–60.
+Kuivaniemi, H., G. Tromp, et al. "[Mutations in Collagen Genes: Causes of Rare and Some Common Diseases in Humans](http://www.ncbi.nlm.nih.gov/pubmed/2010058)." _The FASEB Journal_ 5, no. 7 (1991): 2052–60.
 
-Laganowsky, A. "{{% resource_link "506de6e5-dfe1-4940-88de-fa62c6e5231f" "Atomic View of a Toxic Amyloid Small Oligomer" %}}." _Science_ 335, no. 6073 (2012): 1228–31.
+Laganowsky, A. "[Atomic View of a Toxic Amyloid Small Oligomer](http://dx.doi.org/10.1126/science.1213151)." _Science_ 335, no. 6073 (2012): 1228–31.
 
-Schmid, F. X. "{{% resource_link "ccd06eae-17d3-422a-8d66-15c9ef8edcdb" "Prolyl Isomerases Join the Fold" %}}." _Current Biology_ 5, no. 9 (1995): 993–4.
+Schmid, F. X. "[Prolyl Isomerases Join the Fold](http://dx.doi.org/10.1016/S0960-9822(95)00197-7)." _Current Biology_ 5, no. 9 (1995): 993–4.
 
 
 {{< tdclose >}}
@@ -202,9 +202,9 @@ Assignment 6: due in Ses 7
 {{< tdopen >}}
 
 
-Pereira, J. H., C. Y. Ralston, et al. "{{% resource_link "01cee47c-d0b8-4737-a49c-b5fde12cc77c" "Cyrstal Structures of a Group II Chaperonin Reveal the Open and Closed States Associated with the Protein Folding Cycle" %}}." _The Journal of Biological Chemistry_ 285, no. 36 (2010): 27958–66.
+Pereira, J. H., C. Y. Ralston, et al. "[Cyrstal Structures of a Group II Chaperonin Reveal the Open and Closed States Associated with the Protein Folding Cycle](http://dx.doi.org/10.1074/jbc.M110.125344)." _The Journal of Biological Chemistry_ 285, no. 36 (2010): 27958–66.
 
-Martin, J., T. Langer, et al. "{{% resource_link "0ed03fc0-cff1-4c2e-9842-b3ccef48e72e" "Chaperonin-mediated Protein Folding at the Surface of GroEL through a ‘Molten Globule'-like Intermediate" %}}." _Nature_ 352 (1991): 36–42.
+Martin, J., T. Langer, et al. "[Chaperonin-mediated Protein Folding at the Surface of GroEL through a ‘Molten Globule'-like Intermediate](http://dx.doi.org/10.1038/352036a0)." _Nature_ 352 (1991): 36–42.
 
 
 {{< tdclose >}}
