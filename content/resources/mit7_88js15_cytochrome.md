@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding study materials.
 file: /courses/7-88j-protein-folding-and-human-disease-spring-2015/5b77124d8779ee2a787c8100ae53acb9_MIT7_88JS15_Cytochrome.pdf
+file_size: 817130
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
