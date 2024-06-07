@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding study materials.
 file: /courses/7-88j-protein-folding-and-human-disease-spring-2015/968b68f1e14fd44adc1c16d6ab64820a_MIT7_88JS15_Ribosomes.pdf
+file_size: 562053
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding Protein folding and
   human disease etiologies of major human diseases.
 file: /courses/7-88j-protein-folding-and-human-disease-spring-2015/68eeee2954ba015c13e847025b736c09_MIT7_88JS15_Etiologies.pdf
+file_size: 927082
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
