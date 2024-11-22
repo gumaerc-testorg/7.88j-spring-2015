@@ -14,10 +14,10 @@ Here are some useful links for your searching pleasure:
 
 [PDB Search Tutorial](https://www.rcsb.org/docs/search-and-browse/overview-search-and-browse) - Protein Data Bank help section with resources on searching, browsing, reports, and general help topics.
 
-Berman, H. M., D. S. Goodsell, and P. E. Bourne. ["Protein Structures: From Famine to Feast." (PDF)](http://www.sdsc.edu/pb/papers/amer_sci.pdf) *American Scientist* 90 (2002): 350–9.       
+Berman, H. M., D. S. Goodsell, and P. E. Bourne. ["Protein Structures: From Famine to Feast." (PDF)](http://www.sdsc.edu/pb/papers/amer_sci.pdf) *American Scientist* 90 (2002): 350–9.        
 Publication on PDB Growth
 
-[Swiss PDB Viewer](http://spdbv.vital-it.ch/) (Deepview) - an application that allows users to analyze several proteins at the same time.
+[Swiss PDB Viewer](https://spdbv.unil.ch/) (Deepview) - an application that allows users to analyze several proteins at the same time.
 
 [UniProtKB / Swiss-Prot Release 50.6 statistics](http://us.expasy.org/sprot/relnotes/relstat.html) - the manually annotated and reviewed section of the [UniProt Knowledgebase (UniProtKB)](http://www.uniprot.org/help/uniprotkb). It is a high quality annotated and non-redundant protein sequence database, which brings together experimental results, computed features and scientific conclusions.
 
