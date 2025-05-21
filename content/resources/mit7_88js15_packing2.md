@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding study materials.
-file: /ol-ocw-studio-app/courses/7-88j-protein-folding-and-human-disease-spring-2015/1993ffeabc9a1b5f5eccc53658e80e12_MIT7_88JS15_Packing2.pdf
+file: /courses/7-88j-protein-folding-and-human-disease-spring-2015/1993ffeabc9a1b5f5eccc53658e80e12_MIT7_88JS15_Packing2.pdf
 file_size: 1245437
 file_type: application/pdf
 learning_resource_types: []

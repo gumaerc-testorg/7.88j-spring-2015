@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding study materials.
-file: /ol-ocw-studio-app/courses/7-88j-protein-folding-and-human-disease-spring-2015/f9278a6950d6d40cd41e166c649f1f3e_MIT7_88JS15_CoiledCoils.pdf
+file: /courses/7-88j-protein-folding-and-human-disease-spring-2015/f9278a6950d6d40cd41e166c649f1f3e_MIT7_88JS15_CoiledCoils.pdf
 file_size: 905924
 file_type: application/pdf
 learning_resource_types: []
